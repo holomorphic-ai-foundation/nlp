@@ -1,0 +1,14 @@
+{
+    "mongo": {
+        "user": "db_un",
+        "password": "P@$$w0rd",
+        "host": "localhost:27017",
+        "db": "haifo_nlp"
+    },
+    "azure_storage": {
+        "access_key": "d0Bk8jqjeZQxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxhcNTTqdaKip1Fmrj0nLp2MlA==",
+        "url": "https://<ACCOUNT_NAME>.queue.core.windows.net",
+        "connection_string": "DefaultEndpointsProtocol=https;AccountName=<ACCOUNT_NAME>;AccountKey=d0Bk8jqjeZQxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxhcNTTqdaKip1Fmrj0nLp2MlA==;EndpointSuffix=core.windows.net",
+        "queue_name_article": "article"
+    }
+}
