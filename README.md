@@ -1,5 +1,5 @@
-# Smart News
-> Name totally up in the air
+# Natural Language Processing
+> A Holomorphic AI Foundation collaborative project
 
 ## Running locally
 
